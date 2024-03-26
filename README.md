@@ -1,6 +1,6 @@
 # Machine Learning Implementations from Scratch
 
-Idea is to implement various layers from scratch using only Python + some other minor libraries such as NumPy or SciPy for speedup of core algorithms like dot product, cross-correlation, etc. for educational purposes.
+Idea is to implement various layers from scratch (everything from every math operation in forwarding, and backpropogation) using only Python + some other minor libraries such as NumPy or SciPy for speedup of core algorithms like dot product, cross-correlation, etc. for educational purposes.
 
 ### Currently Implemented
 
